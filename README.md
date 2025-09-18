@@ -76,13 +76,11 @@ This project demonstrates advanced SQL Server programming using **Stored Procedu
 
 ## 📷 Project Screenshots
 
-### ERD Diagram
-![ERD Diagram](ERD & Mapping/ERD.jpg)
+#### ERD Diagram
+![ERD Diagram](ERD%20&%20Mapping/ERD.jpg)
 
-### Sample Interface / Query Results
-![Mapping](ERD & Mapping/Mapping.jpg)
-
-> ⚠️ Replace the image paths with the actual file paths in your repository.
+#### Mapping Diagram
+![Mapping Diagram](ERD%20&%20Mapping/Mapping.jpg)
 
 ---
 
