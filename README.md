@@ -64,12 +64,12 @@ This project demonstrates advanced SQL Server programming using **Stored Procedu
 ## 📂 Repository Structure
 
 - Examination-System-Database/
-- ├── Data/ # Inserted Data
-- ├── Queries/ # SQL scripts (DDL, DML, Stored Procedures, Views, Triggers)
-- ├── ERD-Mapping/ # ERD diagrams and mapping documents
-- ├── Database/ # Database backup file (.bak)
-- ├── Documentation/ # Project report (PDF)
-- └── README.md # Project description
+- ├── Data/  Inserted Data
+- ├── Queries/  SQL scripts (DDL, DML, Stored Procedures, Views, Triggers)
+- ├── ERD-Mapping/  ERD diagrams and mapping documents
+- ├── Database/  Database backup file (.bak)
+- ├── Documentation/  Project report (PDF)
+- └── README.md / Project description
 
 
 ---
